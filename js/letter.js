@@ -7,7 +7,7 @@ $("#open").click(function(){
 	{
 		var typed = new Typed('.letter', {
 			strings: ["^1000Gửi Lâm Quanh", 
-				"Hi bạn,<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chắc cũng được 5 năm từ lúc biết nhau rồi. Mình không biết bạn đang trông chờ gì ở đứa ngu văn 12 năm liền như mình. Nhưng mà sinh nhật 21 vui vẻ nha bạn.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;P/s: Nhớ học tiếng anh nha bạn!<br><br><p style='float:right; display:block;'>Happy birthday Lam Quanh!</p><br><p style='float:right; display:block;'>28/11/2021</p>&nbsp;&nbsp;&nbsp;&nbsp;"],
+				"Hi bạn,<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chắc cũng được 5 hay 6 năm từ lúc biết nhau rồi. Mình không biết bạn đang trông chờ gì ở đứa ngu văn 12 năm liền như mình. Nhưng mà sinh nhật vui vẻ nha bạn.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;P/s: Nhớ học tiếng anh nha bạn!<br><br><p style='float:right; display:block;'>Happy birthday Lam Quanh!</p><br><p style='float:right; display:block;'>28/11/2021</p>&nbsp;&nbsp;&nbsp;&nbsp;"],
 			typeSpeed: 50,
 			backSpeed: 50
 		});
